@@ -1,6 +1,7 @@
 .NET
 .NET Core
 .NET Core Web API
+.NET Framework
 2D Animation
 2D Animation Explainer Video
 2D Drafting
