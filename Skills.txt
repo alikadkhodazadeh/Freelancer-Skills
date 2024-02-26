@@ -1,5 +1,4 @@
 .NET
-.NET 5.0/6
 .NET Core
 .NET Core Web API
 2D Animation
